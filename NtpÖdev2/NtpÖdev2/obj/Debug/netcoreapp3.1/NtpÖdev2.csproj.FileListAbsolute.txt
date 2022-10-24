@@ -1,0 +1,14 @@
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.exe
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.deps.json
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.runtimeconfig.json
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.runtimeconfig.dev.json
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.dll
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\bin\Debug\netcoreapp3.1\NtpÖdev2.pdb
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.csproj.AssemblyReference.cache
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.AssemblyInfoInputs.cache
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.AssemblyInfo.cs
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.csproj.CoreCompileInputs.cache
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.dll
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.pdb
+C:\Users\ALMANARA\source\repos\NtpÖdev2\NtpÖdev2\obj\Debug\netcoreapp3.1\NtpÖdev2.genruntimeconfig.cache
